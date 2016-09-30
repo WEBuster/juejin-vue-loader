@@ -1,11 +1,11 @@
 {
-  "name": "vue-loader",
+  "name": "juejin-vue-loader",
   "version": "9.5.1",
-  "description": "Vue.js component loader for Webpack",
+  "description": "Vue loader for Juejin",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejs/vue-loader.git"
+    "url": "https://github.com/WEBuster/juejin-vue-loader.git"
   },
   "keywords": [
     "vue",
@@ -16,12 +16,12 @@
     "index.js",
     "lib"
   ],
-  "author": "Sjoerd Visscher",
+  "author": "Sjoerd Visscher, MopTym",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-loader/issues"
+    "url": "https://github.com/WEBuster/juejin-vue-loader/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-loader",
+  "homepage": "https://github.com/WEBuster/juejin-vue-loader",
   "scripts": {
     "lint": "eslint lib",
     "test": "eslint lib && mocha --slow 5000 --timeout 10000",
