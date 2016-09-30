@@ -1,6 +1,6 @@
 {
   "name": "juejin-vue-loader",
-  "version": "9.5.1",
+  "version": "9.5.2",
   "description": "Vue loader for Juejin",
   "main": "index.js",
   "repository": {
